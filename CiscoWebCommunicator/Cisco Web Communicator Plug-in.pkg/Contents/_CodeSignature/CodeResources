@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Archive.bom</key>
+		<data>
+		5y8Z0t7ulPQ2W8JALc8vyCPQ3rA=
+		</data>
+		<key>Archive.pax.gz</key>
+		<data>
+		XVY0KIieZnRpV741Y2zlmz3VqgY=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		+XJTpDj4wQXgGh0bPDtfR+9/ec0=
+		</data>
+		<key>Resources/Archive.sizes</key>
+		<data>
+		gKOeYnWSgG98jvw6BjXwQ2DxdL0=
+		</data>
+		<key>Resources/Description.plist</key>
+		<data>
+		ypjb6lIeHDPtsQ4w3oOjpSTZp44=
+		</data>
+		<key>Resources/IFRequirement.strings</key>
+		<data>
+		85vbcFnUivRlrB1LW1j6fd9UJUs=
+		</data>
+		<key>Resources/License.rtf</key>
+		<data>
+		Dup36KkNh+DkCKjTGoYDeL+g7yQ=
+		</data>
+		<key>Resources/ReadMe.txt</key>
+		<data>
+		INI3QjfbPr9LnS2oL9nQYwEiWD8=
+		</data>
+		<key>Resources/package_version</key>
+		<data>
+		gQbdVwLn8jmrSPgudAwB6o8NbI8=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^.*</key>
+		<true/>
+		<key>^.*/.*\.pkg/</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

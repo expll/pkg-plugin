@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>3.0.1.61051</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.cisco.pkg.CiscoWebCommunicator</string>
+	<key>CFBundleName</key>
+	<string>Cisco Web Communicator Plug-in Installer</string>
+	<key>CFBundleShortVersionString</key>
+	<string>3.0.1.61051</string>
+	<key>IFMajorVersion</key>
+	<integer>2</integer>
+	<key>IFMinorVersion</key>
+	<integer>1</integer>
+	<key>IFPkgBuildDate</key>
+	<date>2013-06-07T20:37:51Z</date>
+	<key>IFPkgBuildVersion</key>
+	<string>11G63b</string>
+	<key>IFPkgCreator</key>
+	<string>IcebergBuilder 1.2.9</string>
+	<key>IFPkgFlagAllowBackRev</key>
+	<false/>
+	<key>IFPkgFlagAuthorizationAction</key>
+	<string>AdminAuthorization</string>
+	<key>IFPkgFlagDefaultLocation</key>
+	<string>/Library/Internet Plug-Ins</string>
+	<key>IFPkgFlagFollowLinks</key>
+	<true/>
+	<key>IFPkgFlagInstalledSize</key>
+	<integer>58004</integer>
+	<key>IFPkgFlagIsRequired</key>
+	<true/>
+	<key>IFPkgFlagOverwritePermissions</key>
+	<false/>
+	<key>IFPkgFlagRelocatable</key>
+	<false/>
+	<key>IFPkgFlagRestartAction</key>
+	<string>NoRestart</string>
+	<key>IFPkgFlagRootVolumeOnly</key>
+	<true/>
+	<key>IFPkgFlagUpdateInstalledLanguages</key>
+	<false/>
+	<key>IFPkgFormatVersion</key>
+	<real>0.10000000149011612</real>
+	<key>IFRequirementDicts</key>
+	<array>
+		<dict>
+			<key>LabelKey</key>
+			<string>min MacOSX requirement</string>
+			<key>Level</key>
+			<string>requires</string>
+			<key>MessageKey</key>
+			<string>messagekey0</string>
+			<key>SpecArgument</key>
+			<string>sysv</string>
+			<key>SpecType</key>
+			<string>gestalt</string>
+			<key>TestObject</key>
+			<string>4208</string>
+			<key>TestOperator</key>
+			<string>&gt;=</string>
+			<key>TitleKey</key>
+			<string>titlekey0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

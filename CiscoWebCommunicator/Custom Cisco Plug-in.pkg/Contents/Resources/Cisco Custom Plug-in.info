@@ -1,0 +1,17 @@
+Title Cisco Custom Plug-in
+Version 1.0
+Description Cisco Custom Plug-Cisco Custom Plug-in.pkg
+DefaultLocation /
+DeleteWarning asdfa
+
+### Package Flags
+
+NeedsAuthorization YES
+Required YES
+Relocatable YES
+RequiresReboot NO
+UseUserMask NO
+OverwritePermissions YES
+AllowBackRev YES
+RootVolumeOnly YES
+OnlyUpdateInstalledLanguages YES

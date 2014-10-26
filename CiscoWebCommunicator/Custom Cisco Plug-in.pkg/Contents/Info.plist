@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>pkg 1.0 Copyrights © 2014 My Great Company</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.mygreatcompany.pkg.pkg</string>
+	<key>CFBundleName</key>
+	<string>pkg</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>IFMajorVersion</key>
+	<integer>1</integer>
+	<key>IFMinorVersion</key>
+	<integer>0</integer>
+	<key>IFPkgBuildDate</key>
+	<date>2014-10-26T14:02:57Z</date>
+	<key>IFPkgBuildVersion</key>
+	<string>13E28</string>
+	<key>IFPkgCreator</key>
+	<string>IcebergBuilder 1.2.9</string>
+	<key>IFPkgFlagAllowBackRev</key>
+	<true/>
+	<key>IFPkgFlagAuthorizationAction</key>
+	<string>RootAuthorization</string>
+	<key>IFPkgFlagDefaultLocation</key>
+	<string>/</string>
+	<key>IFPkgFlagFollowLinks</key>
+	<true/>
+	<key>IFPkgFlagInstalledSize</key>
+	<integer>16</integer>
+	<key>IFPkgFlagIsRequired</key>
+	<true/>
+	<key>IFPkgFlagOverwritePermissions</key>
+	<true/>
+	<key>IFPkgFlagRelocatable</key>
+	<true/>
+	<key>IFPkgFlagRestartAction</key>
+	<string>NoRestart</string>
+	<key>IFPkgFlagRootVolumeOnly</key>
+	<true/>
+	<key>IFPkgFlagUpdateInstalledLanguages</key>
+	<true/>
+	<key>IFPkgFormatVersion</key>
+	<real>0.10000000149011612</real>
+</dict>
+</plist>
